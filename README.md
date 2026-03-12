@@ -7,9 +7,9 @@
 
 ## About Me
 
-I am a UK-based full-stack developer and software architect with 18+ years of experience building cloud-based SaaS products, enterprise platforms, and analytics systems. I began my career in South Africa, developing fintech and telecom applications, before moving to the UK to work on larger-scale SaaS platforms and cloud-native solutions.
+I am a UK-based full-stack developer and software architect with 18+ years of experience , building SaaS products, enterprise platforms, and analytics systems. I began my career in South Africa, developing fintech and telecom applications, before moving to the UK to work on SaaS platforms plus cloud-native solutions.
 
-I specialize in full-stack development, API design, cloud architecture, and data-driven software solutions, with a passion for creating scalable, secure, and user-friendly products.
+I specialize in full-stack development with a passion for creating scalable, secure, and user-friendly products.
 
 
 .
